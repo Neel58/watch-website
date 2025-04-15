@@ -13,7 +13,6 @@ body {
     line-height: 1.6;
 }
 
-/* Navigation */
 .navbar {
     display: flex;
     align-items: center;
@@ -76,7 +75,6 @@ body {
     transform: scale(1.1);
 }
 
-/* Featured Brands Section */
 .featured-brands {
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
     background-size: cover;
